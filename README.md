@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepa-project
 - 👀 I’m interested in ...Cooking,coding and maths
-- 🌱 I’m currently learning ...python full stacj develooment
+- 🌱 I’m currently learning ...python full stack develooment
 - 💞️ I’m looking to collaborate on ...java/j2ee/mysql or dotnet/sql full stack development with html/javascript
 📫 How to reach me ...
 deepashankar1979@gmail.com/deepa.mailbox@yahoo.in
